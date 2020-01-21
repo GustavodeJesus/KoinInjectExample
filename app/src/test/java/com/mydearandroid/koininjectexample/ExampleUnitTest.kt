@@ -1,4 +1,4 @@
-package dev.droidgeek.koininjectexample
+package com.mydearandroid.koininjectexample
 
 import org.junit.Test
 

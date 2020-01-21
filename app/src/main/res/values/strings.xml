@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">KoinInjectExample</string>
+    <string name="app_title_meetup">Android Meetup - Uberlândia</string>
+    <string name="app_message">Você pode falar sobre um tema também</string>
+    <string name="app_title_brother">IRMÃO</string>
 </resources>

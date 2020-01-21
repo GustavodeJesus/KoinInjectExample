@@ -1,10 +1,10 @@
-package dev.droidgeek.koininjectexample.viewmodel
+package com.mydearandroid.koininjectexample.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import dev.droidgeek.koininjectexample.model.Meetup
-import dev.droidgeek.koininjectexample.repository.MainRepository
+import com.mydearandroid.koininjectexample.model.Meetup
+import com.mydearandroid.koininjectexample.repository.MainRepository
 
 class MainViewModel(private val mainRepository: MainRepository) : ViewModel() {
 
